@@ -1,4 +1,4 @@
-"""A small, asset-free horror game made with Pygame.
+git push -u origin check"""A small, asset-free horror game made with Pygame.
 
 Controls:
     W / A / S / D or arrow keys - move
