@@ -13,9 +13,7 @@ Goal:
 import math
 import random
 import sys
-
 import pygame
-
 
 # Window and gameplay settings.
 WIDTH, HEIGHT = 900, 600
@@ -111,7 +109,6 @@ def main():
 
     while True:
         delta_time = clock.tick(FPS) / 1000
-
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 pygame.quit()
